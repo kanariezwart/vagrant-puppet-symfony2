@@ -49,7 +49,6 @@ $wantedpackages = [
   "mysql-server",
   "phpMyAdmin",
   "openvpn",
-  "composer"
 ]
 
 package { $wantedpackages:
